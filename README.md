@@ -1,4 +1,18 @@
-Hello,I am Deepanshi,Great to see you here! 👋
+### Hello,I am Deepanshi,Great to see you here! 👋
+
+1. I am open to collaborating on project and Innovative/disruptive ideas
+
+Programming Language I Know 
+
+* [x] Python
+* [x] Java
+
+
+Connect with me :
+
+g.deepanshi1712@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/deepanshi-gupta-230030215/)
 
 <!--
 **Deepanshi-Gupta/Deepanshi-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
