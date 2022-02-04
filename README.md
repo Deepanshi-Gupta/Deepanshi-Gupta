@@ -1,11 +1,33 @@
-### Hello,I am Deepanshi,Great to see you here! 👋
+### Hello,I am ,<i>Deepanshi</i>,Great to see you here! 👋
+<!--
+This text here is <b>bold</b> or **
+This text here is <i>italic</i> or *
+This text here is <s>strikethrough</s> or ~~
+<a href="http://eddiejaoude.io">Eddie Jaoude</a>
+<img src="http://mydomain.com/myimage.png" alt="Title of image"> or ![Title of image](http://mydomain.com/myimage.png)
+#same for table 
+ > This is a quote to give context
+        
+        I agree with this idea
+
+<details>
+          <summary>Click to expand!</summary>
+          
+            ## More great tips!
+
+            - item 1 
+            - item 2
+        </details>
+
+-->
 
 1. I am open to collaborating on project and Innovative/disruptive ideas
-
-Programming Language I Know 
-
-* [x] Python
-* [x] Java
+<details>
+          <summary>Programming Language I Know </summary>
+             
+            - Python
+            - Java
+</details>
 
 
 Connect with me :
